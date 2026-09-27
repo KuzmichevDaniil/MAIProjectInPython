@@ -71,6 +71,7 @@ def check_last_operator(tokens):
 
         
 def check_incompatible_units(fr_unit, to_unit):
+    '''Проверяю, в одинаковой группе находятся две единицы, если нет - ошибка.'''
     if (fr_unit in ['g', 'kg'] and to_unit not in ['g', 'kg'] and to_unit in ['mm', 'cm', 'm', 'km', 'c', 'k', 'f']) or\
         (fr_unit in ['mm', 'cm', 'm', 'km'] and to_unit not in ['mm', 'cm', 'm', 'km'] and to_unit in ['g', 'kg', 'c', 'k', 'f']) or\
             (fr_unit in ['c', 'k', 'f'] and to_unit not in ['c', 'k', 'f'] and to_unit in ['g', 'kg', 'mm', 'cm', 'm', 'km']):
@@ -78,6 +79,7 @@ def check_incompatible_units(fr_unit, to_unit):
 
 
 def check_unknown_unit(fr_unit, to_unit):
+    '''Проверяю относятся ли единицы, которые мы ввели в программе к группам единиц, которые нам даны.'''
     if fr_unit in ['g', 'kg', 'mm', 'cm', 'm', 'km', 'c', 'k', 'f']:
         if to_unit not in ['g', 'kg', 'mm', 'cm', 'm', 'km', 'c', 'k', 'f']:
             raise UnknownUnit(to_unit)
@@ -86,6 +88,7 @@ def check_unknown_unit(fr_unit, to_unit):
         
 
 def check_invalid_num_value_for_convert(value):
+    '''Проверяю правильно ли мы ввели число'''
     if match(r'^(\d+\.+)$', value):
         raise InvalidNumericValueForConverter(value)
     elif  match(r'^(\.+\d*)$', value):
@@ -94,6 +97,7 @@ def check_invalid_num_value_for_convert(value):
         raise InvalidNumericValueForConverter (value)
     
 def check_absolutely_zero(value, from_unit, to_unit):
+    '''Проверяю, не ниже ли число, которое мы передали, абсолютного нуля при заданной единицу измерения'''
     if from_unit in ['c', 'k', 'f'] and to_unit in ['c', 'k', 'f']:
         if float(value) < 0 and from_unit == 'k' and to_unit in ['f', 'c']:
             raise AbsolutelyZero(value)

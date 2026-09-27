@@ -17,9 +17,7 @@ def main(argv = None):
     sub_convert.add_argument("--from", dest = "from_unit", required = True)
     sub_convert.add_argument("--to", dest = "to_unit", required = True)
     
-    if argv in None:
-        argv = sys.argv[1:]
-    
+    #Создаем кастомный --help
     if "--help" in sys.argv[1] or "--h" in sys.argv[1]:
             table_help()
             sys.exit(0)
