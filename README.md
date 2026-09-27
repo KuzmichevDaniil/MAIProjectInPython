@@ -27,14 +27,14 @@
 ### История вычислений
 
 - История успешных операций сохраняется в файле ***calc_and_convert_history.json***:
-    `lab_01\calc_and_convert_history.json`
+    `MAIProjectInPython\calc_and_convert_history.json`
 
 ---
 
 ## Структура проекта
 
 ```text
-lab_01/
+MAIProjectInPython/
   pyproject.toml
   README.md
   cmd_history.py
