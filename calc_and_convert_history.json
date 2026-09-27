@@ -1,0 +1,4996 @@
+[
+    {
+        "command": "calc",
+        "time": "27-09-2026 16:54",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 16:54",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 16:54",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 16:54",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 16:54",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 16:54",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 16:57",
+        "expression": "2.3",
+        "result": "2.3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 16:57",
+        "expression": "2/3",
+        "result": "0.6666666666666666666666666667"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:03",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:03",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:03",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:03",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:03",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:03",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:03",
+        "expression": "2/3",
+        "result": "0.6666666666666666666666666667"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:03",
+        "expression": "1/3",
+        "result": "0.3333333333333333333333333333"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:03",
+        "expression": "1.0005+0.0001",
+        "result": "1.0006"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:03",
+        "expression": "2/3",
+        "result": "0.6666666666666666666666666667"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:03",
+        "expression": "4*0.25",
+        "result": "1.00"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:03",
+        "expression": "9-1.110",
+        "result": "7.890"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:03",
+        "expression": "3-2.999",
+        "result": "0.001"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:05",
+        "expression": "10/4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:05",
+        "expression": "3-0.000",
+        "result": "3.000"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:05",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:06",
+        "expression": "1.0005+0.0001",
+        "result": "1.0006"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:06",
+        "expression": "2/3",
+        "result": "0.6666666666666666666666666667"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:06",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:06",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:06",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:06",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:06",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:06",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:06",
+        "expression": "2/3",
+        "result": "0.6666666666666666666666666667"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:06",
+        "expression": "1/3",
+        "result": "0.3333333333333333333333333333"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:06",
+        "expression": "1.0005+0.0001",
+        "result": "1.0006"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:08",
+        "expression": "9-1.110",
+        "result": "7.890"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:08",
+        "expression": "3-2.999",
+        "result": "0.001"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:08",
+        "expression": "3-2.990",
+        "result": "0.010"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:22",
+        "expression": "3-2.990",
+        "result": "0.010"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:22",
+        "expression": "3-2.990",
+        "result": "0.010"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:23",
+        "expression": "3-2.990",
+        "result": "0.010"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:25",
+        "expression": "3-2.990",
+        "result": "0.010"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:25",
+        "expression": "9-1.110",
+        "result": "7.890"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:25",
+        "expression": "2/3",
+        "result": "0.6666666666666666666666666667"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:25",
+        "expression": "1.0005+0.0001",
+        "result": "1.0006"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:26",
+        "expression": "3-0.000",
+        "result": "3.000"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:26",
+        "expression": "10/4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:26",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:26",
+        "expression": "3-2",
+        "result": "1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:26",
+        "expression": "1-0.994",
+        "result": "0.006"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:26",
+        "expression": "3-2.001",
+        "result": "0.999"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:26",
+        "expression": "3-2.0001",
+        "result": "0.9999"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:27",
+        "expression": "3-0.1321321",
+        "result": "2.8678679"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:28",
+        "expression": "3-0.1321321",
+        "result": "2.8678679"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:31",
+        "expression": "3-0.1321321",
+        "result": "2.8678679"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:31",
+        "expression": "3-2.001",
+        "result": "0.999"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:32",
+        "expression": "3-2.001",
+        "result": "0.999"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:34",
+        "expression": "3-2.001",
+        "result": "0.999"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:34",
+        "expression": "3-0.1321321",
+        "result": "2.8678679"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:34",
+        "expression": "3-2.0001",
+        "result": "0.9999"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:34",
+        "expression": "3-2",
+        "result": "1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:34",
+        "expression": "1-0.994",
+        "result": "0.006"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:34",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:34",
+        "expression": "10/4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:35",
+        "expression": "1/3",
+        "result": "0.3333333333333333333333333333"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:35",
+        "expression": "2/3",
+        "result": "0.6666666666666666666666666667"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:36",
+        "expression": "10/4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:36",
+        "expression": "10/4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:36",
+        "expression": "10/4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:36",
+        "expression": "10/4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:36",
+        "expression": "2/3",
+        "result": "0.6666666666666666666666666667"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:37",
+        "expression": "10/4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:37",
+        "expression": "1/3",
+        "result": "0.3333333333333333333333333333"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:37",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:37",
+        "expression": "1-0.994",
+        "result": "0.006"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:37",
+        "expression": "3-2",
+        "result": "1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:37",
+        "expression": "3-2.0001",
+        "result": "0.9999"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:37",
+        "expression": "3-0.1321321",
+        "result": "2.8678679"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:37",
+        "expression": "3-2.990",
+        "result": "0.010"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:37",
+        "expression": "9-1.110",
+        "result": "7.890"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:37",
+        "expression": "2+(5+3)/24+52",
+        "result": "54.33333333333333333333333333"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:38",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:39",
+        "expression": "0.7655*0.9-345/1234+96",
+        "result": "96.40937139384116693679092382"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:40",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:40",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:40",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:40",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:40",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:40",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:40",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:40",
+        "expression": "0.7655*0.9-345/1234+96",
+        "result": "96.40937139384116693679092382"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:40",
+        "expression": "1/3",
+        "result": "0.3333333333333333333333333333"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:41",
+        "expression": "0.7655*0.9-345/1234+96",
+        "result": "96.40937139384116693679092382"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:42",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:43",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:43",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:43",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:43",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:43",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:43",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:43",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:43",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:43",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:43",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:44",
+        "expression": "2323/44+5.67*9",
+        "result": "103.8254545454545454545454546"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:44",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:44",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:44",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:44",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:44",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:44",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:44",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:44",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:44",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:44",
+        "expression": "2323/44+5.67*9",
+        "result": "103.8254545454545454545454546"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:44",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:44",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:44",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:44",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:44",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:44",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:44",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:44",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:44",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:44",
+        "expression": "2323/44+5.67*9*0",
+        "result": "52.79545454545454545454545455"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:45",
+        "expression": "2323/44+5.67*9*0",
+        "result": "52.79545454545454545454545455"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:45",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:45",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:45",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:45",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:45",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:45",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:45",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:45",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:45",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:45",
+        "expression": "2323/44+5.67*9*0",
+        "result": "52.79545454545454545454545455"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:46",
+        "expression": "2323/232+5.67*9*0",
+        "result": "10.01293103448275862068965517"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:46",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:46",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:46",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:46",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:46",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:46",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:46",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:46",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:46",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:46",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:46",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:53",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:53",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:53",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:53",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:53",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:53",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:53",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:53",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:53",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:53",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:53",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:53",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:53",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:53",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:53",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:53",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:53",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:53",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:53",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:53",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:55",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:55",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:55",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:55",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:55",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:55",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:55",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:55",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:55",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:55",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:57",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:57",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:57",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:57",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:57",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:57",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:57",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:57",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:57",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:57",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:58",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:58",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:58",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:58",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:58",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:58",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:58",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:58",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:58",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 17:58",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:07",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:07",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:07",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:07",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:07",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:07",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:07",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:07",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:07",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:07",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:11",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:11",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:11",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:11",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:11",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:11",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:11",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:11",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:11",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:11",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:13",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:13",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:13",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:13",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:13",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:13",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:13",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:13",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:13",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:13",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:20",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:20",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:20",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:20",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:20",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:20",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:20",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:20",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:20",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:20",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:35",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:35",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:35",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:35",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:35",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:35",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:35",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:35",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:35",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:35",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:37",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:37",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:37",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:37",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:37",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:37",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:37",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:37",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:37",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:37",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 18:45",
+        "expression": "2323/44+5.67*9",
+        "result": "103.8254545454545454545454546"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:07",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:07",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:07",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:07",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:07",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:07",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:07",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:07",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:07",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:07",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:08",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:08",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:08",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:08",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:08",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:08",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:08",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:08",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:08",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:08",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:12",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:12",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:12",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:12",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:12",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:12",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:12",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:12",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:12",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:12",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:12",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:12",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:12",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:12",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:12",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:12",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:12",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:12",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:12",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:12",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:15",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:15",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:15",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:15",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:15",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:15",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:15",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:15",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:15",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:15",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:17",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:17",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:17",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:17",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:17",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:17",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:17",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:17",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:17",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:17",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:22",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:22",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:22",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:22",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:22",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:22",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:22",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:22",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:22",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:22",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:22",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:22",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:22",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:22",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:22",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:22",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:22",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:22",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:22",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:22",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:22",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:22",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:22",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:22",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:22",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:22",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:22",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:22",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:22",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:22",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:24",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:24",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:24",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:24",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:24",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:24",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:24",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:24",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:24",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:24",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:26",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:26",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:26",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:26",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:26",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:26",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:26",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:26",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:26",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:26",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:28",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:28",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:28",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:28",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:28",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:28",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:28",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:28",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:28",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:28",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:29",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:29",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:29",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:29",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:29",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:29",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:29",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:29",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:29",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:29",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:31",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:31",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:31",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:31",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:31",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:31",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:31",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:31",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:31",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:31",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:39",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:39",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:39",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:39",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:39",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:39",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:39",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:39",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:39",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:39",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:41",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:41",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:41",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:41",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:41",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:41",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:41",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:41",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:41",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:41",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:43",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:43",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:43",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:43",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:43",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:43",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:43",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:43",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:43",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:43",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:45",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:45",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:45",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:45",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:45",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:45",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:45",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:45",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:45",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:45",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:45",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:45",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:45",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:45",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:45",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:45",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:45",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:45",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:45",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:45",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:47",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:47",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:47",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:47",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:47",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:47",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:47",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:47",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:47",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:47",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:53",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:53",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:53",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:53",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:53",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:53",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:53",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:53",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:53",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:53",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:54",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:54",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:54",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:54",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:54",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:54",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:54",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:54",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:54",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 19:54",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:07",
+        "expression": "454*3232",
+        "result": "1467328"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:07",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:07",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:07",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:07",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:07",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:07",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:07",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:07",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:07",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:07",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:09",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:09",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:09",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:09",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:09",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:09",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:09",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:09",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:09",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:09",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:10",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:10",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:10",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:10",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:10",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:10",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:10",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:10",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:10",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:10",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:17",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:17",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:17",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:17",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:17",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:17",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:17",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:17",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:17",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 20:17",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:50",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:50",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:50",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:50",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:50",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:50",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:50",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:50",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:50",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:50",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:52",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:52",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:52",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:52",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:52",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:52",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:52",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:52",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:52",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:52",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:58",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:58",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:58",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:58",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:58",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:58",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:58",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:58",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:58",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:58",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:58",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:58",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:58",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:58",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:58",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:58",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:58",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:58",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:58",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 21:58",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:00",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:00",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:00",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:00",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:00",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:00",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:00",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:00",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:00",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:00",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:02",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:02",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:02",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:02",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:02",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:02",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:02",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:02",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:02",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:02",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:04",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:04",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:04",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:04",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:04",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:04",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:04",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:04",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:04",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:04",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:59",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:59",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:59",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:59",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:59",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:59",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:59",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:59",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:59",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 22:59",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 22:59",
+        "value": "1000",
+        "from_unit": "mm_",
+        "to_unit": "m",
+        "result": "1.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 22:59",
+        "value": "123",
+        "from_unit": "km",
+        "to_unit": "m",
+        "result": "123000.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 22:59",
+        "value": "4345",
+        "from_unit": "cm",
+        "to_unit": "m",
+        "result": "43.45"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 22:59",
+        "value": "532",
+        "from_unit": "cm",
+        "to_unit": "mm",
+        "result": "5320.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 22:59",
+        "value": "6767",
+        "from_unit": "mm",
+        "to_unit": "km",
+        "result": "0.006767"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 22:59",
+        "value": "99",
+        "from_unit": "m",
+        "to_unit": "cm",
+        "result": "9900.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 22:59",
+        "value": "123456",
+        "from_unit": "m",
+        "to_unit": "m",
+        "result": "123456.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 22:59",
+        "value": "1.5",
+        "from_unit": "kg",
+        "to_unit": "g",
+        "result": "1500.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 22:59",
+        "value": "0.3",
+        "from_unit": "kg",
+        "to_unit": "g",
+        "result": "300.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 22:59",
+        "value": "15",
+        "from_unit": "kg",
+        "to_unit": "g",
+        "result": "15000.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 22:59",
+        "value": "500",
+        "from_unit": "g",
+        "to_unit": "kg",
+        "result": "0.5"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 22:59",
+        "value": "4500",
+        "from_unit": "g",
+        "to_unit": "kg",
+        "result": "4.5"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 22:59",
+        "value": "75",
+        "from_unit": "g",
+        "to_unit": "kg",
+        "result": "0.075"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 22:59",
+        "value": "5",
+        "from_unit": "kg",
+        "to_unit": "kg",
+        "result": "5.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 22:59",
+        "value": "25",
+        "from_unit": "g",
+        "to_unit": "g",
+        "result": "25.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 22:59",
+        "value": "0",
+        "from_unit": "c",
+        "to_unit": "f",
+        "result": "32.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 22:59",
+        "value": "-273.15",
+        "from_unit": "c",
+        "to_unit": "k",
+        "result": "0.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 22:59",
+        "value": "20",
+        "from_unit": "c",
+        "to_unit": "f",
+        "result": "68.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 22:59",
+        "value": "98.6",
+        "from_unit": "f",
+        "to_unit": "c",
+        "result": "37.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 22:59",
+        "value": "2424",
+        "from_unit": "f",
+        "to_unit": "f",
+        "result": "2424.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 22:59",
+        "value": "373.15",
+        "from_unit": "k",
+        "to_unit": "f",
+        "result": "212.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 22:59",
+        "value": "1",
+        "from_unit": "c",
+        "to_unit": "c",
+        "result": "1.0"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:06",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:06",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:06",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:06",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:06",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:06",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:06",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:06",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:06",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:06",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:06",
+        "value": "1000",
+        "from_unit": "mm_",
+        "to_unit": "m",
+        "result": "1.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:06",
+        "value": "123",
+        "from_unit": "km",
+        "to_unit": "m",
+        "result": "123000.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:06",
+        "value": "4345",
+        "from_unit": "cm",
+        "to_unit": "m",
+        "result": "43.45"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:06",
+        "value": "532",
+        "from_unit": "cm",
+        "to_unit": "mm",
+        "result": "5320.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:06",
+        "value": "6767",
+        "from_unit": "mm",
+        "to_unit": "km",
+        "result": "0.006767"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:06",
+        "value": "99",
+        "from_unit": "m",
+        "to_unit": "cm",
+        "result": "9900.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:06",
+        "value": "123456",
+        "from_unit": "m",
+        "to_unit": "m",
+        "result": "123456.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:06",
+        "value": "1.5",
+        "from_unit": "kg",
+        "to_unit": "g",
+        "result": "1500.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:06",
+        "value": "0.3",
+        "from_unit": "kg",
+        "to_unit": "g",
+        "result": "300.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:06",
+        "value": "15",
+        "from_unit": "kg",
+        "to_unit": "g",
+        "result": "15000.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:06",
+        "value": "500",
+        "from_unit": "g",
+        "to_unit": "kg",
+        "result": "0.5"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:06",
+        "value": "4500",
+        "from_unit": "g",
+        "to_unit": "kg",
+        "result": "4.5"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:06",
+        "value": "75",
+        "from_unit": "g",
+        "to_unit": "kg",
+        "result": "0.075"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:06",
+        "value": "5",
+        "from_unit": "kg",
+        "to_unit": "kg",
+        "result": "5.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:06",
+        "value": "25",
+        "from_unit": "g",
+        "to_unit": "g",
+        "result": "25.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:06",
+        "value": "0",
+        "from_unit": "c",
+        "to_unit": "f",
+        "result": "32.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:06",
+        "value": "-273.15",
+        "from_unit": "c",
+        "to_unit": "k",
+        "result": "0.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:06",
+        "value": "20",
+        "from_unit": "c",
+        "to_unit": "f",
+        "result": "68.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:06",
+        "value": "98.6",
+        "from_unit": "f",
+        "to_unit": "c",
+        "result": "37.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:06",
+        "value": "2424",
+        "from_unit": "f",
+        "to_unit": "f",
+        "result": "2424.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:06",
+        "value": "373.15",
+        "from_unit": "k",
+        "to_unit": "f",
+        "result": "212.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:06",
+        "value": "1",
+        "from_unit": "c",
+        "to_unit": "c",
+        "result": "1.0"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:07",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:07",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:07",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:07",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:07",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:07",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:07",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:07",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:07",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:07",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:07",
+        "value": "1000",
+        "from_unit": "mm_",
+        "to_unit": "m",
+        "result": "1.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:07",
+        "value": "123",
+        "from_unit": "km",
+        "to_unit": "m",
+        "result": "123000.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:07",
+        "value": "4345",
+        "from_unit": "cm",
+        "to_unit": "m",
+        "result": "43.45"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:07",
+        "value": "532",
+        "from_unit": "cm",
+        "to_unit": "mm",
+        "result": "5320.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:07",
+        "value": "6767",
+        "from_unit": "mm",
+        "to_unit": "km",
+        "result": "0.006767"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:07",
+        "value": "99",
+        "from_unit": "m",
+        "to_unit": "cm",
+        "result": "9900.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:07",
+        "value": "123456",
+        "from_unit": "m",
+        "to_unit": "m",
+        "result": "123456.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:07",
+        "value": "1.5",
+        "from_unit": "kg",
+        "to_unit": "g",
+        "result": "1500.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:07",
+        "value": "0.3",
+        "from_unit": "kg",
+        "to_unit": "g",
+        "result": "300.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:07",
+        "value": "15",
+        "from_unit": "kg",
+        "to_unit": "g",
+        "result": "15000.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:07",
+        "value": "500",
+        "from_unit": "g",
+        "to_unit": "kg",
+        "result": "0.5"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:07",
+        "value": "4500",
+        "from_unit": "g",
+        "to_unit": "kg",
+        "result": "4.5"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:07",
+        "value": "75",
+        "from_unit": "g",
+        "to_unit": "kg",
+        "result": "0.075"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:07",
+        "value": "5",
+        "from_unit": "kg",
+        "to_unit": "kg",
+        "result": "5.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:07",
+        "value": "25",
+        "from_unit": "g",
+        "to_unit": "g",
+        "result": "25.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:07",
+        "value": "0",
+        "from_unit": "c",
+        "to_unit": "f",
+        "result": "32.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:07",
+        "value": "-273.15",
+        "from_unit": "c",
+        "to_unit": "k",
+        "result": "0.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:07",
+        "value": "20",
+        "from_unit": "c",
+        "to_unit": "f",
+        "result": "68.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:07",
+        "value": "98.6",
+        "from_unit": "f",
+        "to_unit": "c",
+        "result": "37.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:07",
+        "value": "2424",
+        "from_unit": "f",
+        "to_unit": "f",
+        "result": "2424.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:07",
+        "value": "373.15",
+        "from_unit": "k",
+        "to_unit": "f",
+        "result": "212.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:07",
+        "value": "1",
+        "from_unit": "c",
+        "to_unit": "c",
+        "result": "1.0"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:10",
+        "expression": "454*3232",
+        "result": "1467328"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:10",
+        "value": "6767",
+        "from_unit": "mm",
+        "to_unit": "km",
+        "result": "0.006767"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:10",
+        "expression": "454*3232",
+        "result": "1467328"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:11",
+        "expression": "454*3232",
+        "result": "1467328"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:11",
+        "expression": "3-2.999",
+        "result": "0.001"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:11",
+        "expression": "2323/44+5.67*9*0",
+        "result": "52.79545454545454545454545455"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:13",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:13",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:13",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:13",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:13",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:13",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:13",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:13",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:13",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:13",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:13",
+        "value": "1000",
+        "from_unit": "mm_",
+        "to_unit": "m",
+        "result": "1.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:13",
+        "value": "123",
+        "from_unit": "km",
+        "to_unit": "m",
+        "result": "123000.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:13",
+        "value": "4345",
+        "from_unit": "cm",
+        "to_unit": "m",
+        "result": "43.45"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:13",
+        "value": "532",
+        "from_unit": "cm",
+        "to_unit": "mm",
+        "result": "5320.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:13",
+        "value": "6767",
+        "from_unit": "mm",
+        "to_unit": "km",
+        "result": "0.006767"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:13",
+        "value": "99",
+        "from_unit": "m",
+        "to_unit": "cm",
+        "result": "9900.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:13",
+        "value": "123456",
+        "from_unit": "m",
+        "to_unit": "m",
+        "result": "123456.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:13",
+        "value": "1.5",
+        "from_unit": "kg",
+        "to_unit": "g",
+        "result": "1500.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:13",
+        "value": "0.3",
+        "from_unit": "kg",
+        "to_unit": "g",
+        "result": "300.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:13",
+        "value": "15",
+        "from_unit": "kg",
+        "to_unit": "g",
+        "result": "15000.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:13",
+        "value": "500",
+        "from_unit": "g",
+        "to_unit": "kg",
+        "result": "0.5"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:13",
+        "value": "4500",
+        "from_unit": "g",
+        "to_unit": "kg",
+        "result": "4.5"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:13",
+        "value": "75",
+        "from_unit": "g",
+        "to_unit": "kg",
+        "result": "0.075"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:13",
+        "value": "5",
+        "from_unit": "kg",
+        "to_unit": "kg",
+        "result": "5.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:13",
+        "value": "25",
+        "from_unit": "g",
+        "to_unit": "g",
+        "result": "25.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:13",
+        "value": "0",
+        "from_unit": "c",
+        "to_unit": "f",
+        "result": "32.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:13",
+        "value": "-273.15",
+        "from_unit": "c",
+        "to_unit": "k",
+        "result": "0.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:13",
+        "value": "20",
+        "from_unit": "c",
+        "to_unit": "f",
+        "result": "68.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:13",
+        "value": "98.6",
+        "from_unit": "f",
+        "to_unit": "c",
+        "result": "37.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:13",
+        "value": "2424",
+        "from_unit": "f",
+        "to_unit": "f",
+        "result": "2424.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:13",
+        "value": "373.15",
+        "from_unit": "k",
+        "to_unit": "f",
+        "result": "212.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:13",
+        "value": "1",
+        "from_unit": "c",
+        "to_unit": "c",
+        "result": "1.0"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:14",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:14",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:14",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:14",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:14",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:14",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:14",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:14",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:14",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:14",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:14",
+        "value": "1000",
+        "from_unit": "mm_",
+        "to_unit": "m",
+        "result": "1.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:14",
+        "value": "123",
+        "from_unit": "km",
+        "to_unit": "m",
+        "result": "123000.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:14",
+        "value": "4345",
+        "from_unit": "cm",
+        "to_unit": "m",
+        "result": "43.45"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:14",
+        "value": "532",
+        "from_unit": "cm",
+        "to_unit": "mm",
+        "result": "5320.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:14",
+        "value": "6767",
+        "from_unit": "mm",
+        "to_unit": "km",
+        "result": "0.006767"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:14",
+        "value": "99",
+        "from_unit": "m",
+        "to_unit": "cm",
+        "result": "9900.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:14",
+        "value": "123456",
+        "from_unit": "m",
+        "to_unit": "m",
+        "result": "123456.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:14",
+        "value": "1.5",
+        "from_unit": "kg",
+        "to_unit": "g",
+        "result": "1500.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:14",
+        "value": "0.3",
+        "from_unit": "kg",
+        "to_unit": "g",
+        "result": "300.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:14",
+        "value": "15",
+        "from_unit": "kg",
+        "to_unit": "g",
+        "result": "15000.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:14",
+        "value": "500",
+        "from_unit": "g",
+        "to_unit": "kg",
+        "result": "0.5"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:14",
+        "value": "4500",
+        "from_unit": "g",
+        "to_unit": "kg",
+        "result": "4.5"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:14",
+        "value": "75",
+        "from_unit": "g",
+        "to_unit": "kg",
+        "result": "0.075"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:14",
+        "value": "5",
+        "from_unit": "kg",
+        "to_unit": "kg",
+        "result": "5.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:14",
+        "value": "25",
+        "from_unit": "g",
+        "to_unit": "g",
+        "result": "25.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:14",
+        "value": "0",
+        "from_unit": "c",
+        "to_unit": "f",
+        "result": "32.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:14",
+        "value": "-273.15",
+        "from_unit": "c",
+        "to_unit": "k",
+        "result": "0.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:14",
+        "value": "20",
+        "from_unit": "c",
+        "to_unit": "f",
+        "result": "68.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:14",
+        "value": "98.6",
+        "from_unit": "f",
+        "to_unit": "c",
+        "result": "37.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:14",
+        "value": "2424",
+        "from_unit": "f",
+        "to_unit": "f",
+        "result": "2424.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:14",
+        "value": "373.15",
+        "from_unit": "k",
+        "to_unit": "f",
+        "result": "212.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:14",
+        "value": "1",
+        "from_unit": "c",
+        "to_unit": "c",
+        "result": "1.0"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:24",
+        "expression": "2+3*4",
+        "result": "14"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:24",
+        "expression": "10 / 4",
+        "result": "2.5"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:24",
+        "expression": "-2 * -3",
+        "result": "6"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:24",
+        "expression": "1+-2",
+        "result": "-1"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:24",
+        "expression": "2+5+3/24+52",
+        "result": "59.125"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:24",
+        "expression": "1+2",
+        "result": "3"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:24",
+        "expression": "-136 ++ 25266++24.3 -4 *+4-+5- -0.6",
+        "result": "25133.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:24",
+        "expression": "-0.1+45*34",
+        "result": "1529.9"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:24",
+        "expression": "3454+343-234.3453*657",
+        "result": "-150167.8621"
+    },
+    {
+        "command": "calc",
+        "time": "27-09-2026 23:24",
+        "expression": "200/40+5.67*9",
+        "result": "56.03"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:24",
+        "value": "1000",
+        "from_unit": "mm_",
+        "to_unit": "m",
+        "result": "1.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:24",
+        "value": "123",
+        "from_unit": "km",
+        "to_unit": "m",
+        "result": "123000.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:24",
+        "value": "4345",
+        "from_unit": "cm",
+        "to_unit": "m",
+        "result": "43.45"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:24",
+        "value": "532",
+        "from_unit": "cm",
+        "to_unit": "mm",
+        "result": "5320.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:24",
+        "value": "6767",
+        "from_unit": "mm",
+        "to_unit": "km",
+        "result": "0.006767"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:24",
+        "value": "99",
+        "from_unit": "m",
+        "to_unit": "cm",
+        "result": "9900.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:24",
+        "value": "123456",
+        "from_unit": "m",
+        "to_unit": "m",
+        "result": "123456.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:24",
+        "value": "1.5",
+        "from_unit": "kg",
+        "to_unit": "g",
+        "result": "1500.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:24",
+        "value": "0.3",
+        "from_unit": "kg",
+        "to_unit": "g",
+        "result": "300.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:24",
+        "value": "15",
+        "from_unit": "kg",
+        "to_unit": "g",
+        "result": "15000.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:24",
+        "value": "500",
+        "from_unit": "g",
+        "to_unit": "kg",
+        "result": "0.5"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:24",
+        "value": "4500",
+        "from_unit": "g",
+        "to_unit": "kg",
+        "result": "4.5"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:24",
+        "value": "75",
+        "from_unit": "g",
+        "to_unit": "kg",
+        "result": "0.075"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:24",
+        "value": "5",
+        "from_unit": "kg",
+        "to_unit": "kg",
+        "result": "5.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:24",
+        "value": "25",
+        "from_unit": "g",
+        "to_unit": "g",
+        "result": "25.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:24",
+        "value": "0",
+        "from_unit": "c",
+        "to_unit": "f",
+        "result": "32.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:24",
+        "value": "-273.15",
+        "from_unit": "c",
+        "to_unit": "k",
+        "result": "0.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:24",
+        "value": "20",
+        "from_unit": "c",
+        "to_unit": "f",
+        "result": "68.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:24",
+        "value": "98.6",
+        "from_unit": "f",
+        "to_unit": "c",
+        "result": "37.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:24",
+        "value": "2424",
+        "from_unit": "f",
+        "to_unit": "f",
+        "result": "2424.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:24",
+        "value": "373.15",
+        "from_unit": "k",
+        "to_unit": "f",
+        "result": "212.0"
+    },
+    {
+        "command": "convert",
+        "time": "27-09-2026 23:24",
+        "value": "1",
+        "from_unit": "c",
+        "to_unit": "c",
+        "result": "1.0"
+    }
+]
